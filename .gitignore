@@ -3,5 +3,5 @@ doc/latex
 bin
 build
 src/.vscode
+src/main.backup
 .vscode
-src/old_main.c
