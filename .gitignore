@@ -2,3 +2,6 @@ doc/html
 doc/latex
 bin
 build
+src/.vscode
+src/old_main.c
+.vscode
