@@ -1,4 +1,7 @@
-bin/
-build/
-.vscode/
-/src/.vscode
+doc/html
+doc/latex
+bin
+build
+src/.vscode
+src/main.backup
+.vscode
